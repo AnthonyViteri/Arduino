@@ -1,3 +1,8 @@
+/*
+Creado por : Anthony Viteri
+GitHub : https://github.com/AnthonyViteri/Arduino
+Titulo: Control PID para motor CC
+*/
 #include <PID_v1.h>
 
 #define PIN_INPUT 0
